@@ -18,7 +18,7 @@ $ gulp
 ```
 
 # HOW TO USE IT?
-
+  - Home html page should be in index.html
   - Make all .html files in /templates folder.
   - Make all .css files in /css folder.
   - Make all .js files in /js folder.
